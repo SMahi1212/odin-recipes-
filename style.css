@@ -9,6 +9,12 @@ ul{
     padding: 35px;
 }
 
+ol{
+    text-align: center;
+    list-style-type: none;
+    padding: 35px;
+}
+
 .home-image{
     margin-left: auto;
     margin-right: auto;
@@ -41,18 +47,37 @@ h1{
 }
 
 h1.lasagna-header{
-    background-color: black;
-    color: red;
+    font-style: oblique;
+    background-color: darkred;
+    color: antiquewhite;
     font-weight: bold;
+    margin: auto;
+    border: 10px;
+    font-size: 60px;
+}
+
+h2.para-lasagna{
+    font-size: 45px;
 }
 
 .para-lasagna{
     text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold
 }
 
 .image-lasagna{
     display: block;
     margin-left: auto;
     margin-right: auto;
-   
+    border-color: darkgreen;
+    padding: 20px;
+    border: 5px;
+}
+
+.para-lasagna.list{
+    font-style: oblique;
+    font-weight: bold;
 }
