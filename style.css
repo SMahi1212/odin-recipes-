@@ -81,3 +81,58 @@ h2.para-lasagna{
     font-style: oblique;
     font-weight: bold;
 }
+
+.turkey-image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.para-turkey{
+    color: white;
+    padding-top: 0px;
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.turkey-header{
+    color: white;
+    background: green;
+    font-size: 40px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.para-turkey.header{
+    font-style: normal;
+}
+
+.butter-chicken-image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.para-butter{
+    text-align: center;
+    color: green;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-top: 0px;
+}
+
+.butter-header{
+    background-color: orange;
+    color: green;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.butter-title{
+    color: green;
+    background-color: orange;
+    font-style: oblique;
+    height: 47px;
+}
